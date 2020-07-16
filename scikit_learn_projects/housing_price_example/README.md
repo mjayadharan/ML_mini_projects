@@ -1,6 +1,6 @@
-# housing price prediction example
+# Housing price prediction example (supervised ML)
 - main file: `./housing_main_notebook.ipynb` (jupyter notebook based on python3)
-- This is a practice project where an end to end ML model is deployed for predicting **housing prices**  based on  the California Housing Prices dataset from the StatLib repository2. This dataset is based on data from the 1990 California census. 
+- This is a practice project where an end to end classical ML models are deployed for predicting **housing prices**  based on  the California Housing Prices dataset from the StatLib repository2. This dataset is based on data from the 1990 California census. 
 - The project follows more or less the same structure given in Chaper 2 of _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9._
 - Includes tips on starting on a ML project with real data. 
 - Fits 3 different regression models:  
