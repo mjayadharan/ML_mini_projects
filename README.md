@@ -1,5 +1,5 @@
 # ML_mini_projects  
-- Repository containing several mini projects, implementing small scale ML training models using scikit-learn, tensorflow and kern. Mainly for fun and learning.
+- Repository containing several mini projects, implementing small scale ML training models using scikit-learn, Keras: TensorFlow, PyTorch. Mainly for fun and learning.
 
 - Folders specific to separate techniques and softwares used.  
 - All packages are based on python, mostly written in the form of  JUPYTER notebooks.  
