@@ -12,7 +12,11 @@ conda activate tf
 ```
 - All dependency packages like latest version of python, numpy, scipi etc comes in the bundle.
 - Might want to install jupyter notebook in the new environment if you prefer working on notebooks.
-    ` conda install jupyter`
+    ` conda install jupyter`  
+- Install matplotlib.  
+    `conda install matplotlib`
+- Install pandas if not installed.  
+    `conda install pandsas`
 
 
 
