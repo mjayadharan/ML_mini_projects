@@ -3,7 +3,7 @@
 ## Installation
 
 - Installation guide for tf.keras module based on TensorFlow version >2. 
-- Assuming that anaconda is not installed:
+- Assuming that anaconda is installed:
     - if not install anaconda following [this.](https://docs.anaconda.com/anaconda/install/linux/)
 - Installing tf for cpu only(recommended for beginners):
 ```
