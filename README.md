@@ -5,7 +5,7 @@
 - Highly recommends installing anaconda  to handle the packages and their dependencies. 
 - Instructions on installation of specific packages in anaconda included in readme.md files.
 - All packages are based on python, mostly written in the form of  JUPYTER notebooks.  
-- Many examples coming from *Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2019, O’Reilly Media)* and other relevant books on practical machine learning. 
+- Many examples taken from *Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2019, O’Reilly Media)* and other relevant books on practical machine learning. 
 - Separate readme files might be added to folders, whereever deemed necessary.
 
 
