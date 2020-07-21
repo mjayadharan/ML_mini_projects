@@ -1,5 +1,5 @@
 # ML_mini_projects  using anaconda
-- Repository containing several mini projects, implementing small scale ML training models using scikit-learn, Keras: TensorFlow, PyTorch. Mainly for fun and learning. 
+- Repository containing several mini projects, implementing small scale ML training models using scikit-learn, Keras: TensorFlow, PyTorch. Mainly for fun and education. 
 - All instructions are with respect to a terminal in linux/mac. Please use the ubuntu sub-system if you are using windows 10 or use anaconda for windows. A good installation guide for the linux sub-system can be found [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - Folders specific to separate techniques and softwares used.  
 - Highly recommends installing anaconda  to handle the packages and their dependencies. 
