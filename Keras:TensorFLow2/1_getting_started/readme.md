@@ -35,3 +35,5 @@ print("keras version: {}".format(keras.__version__))
     tf version: 2.2.0
     keras version: 2.3.0-tf
 
+## Following the order
+Please follow the integer indexing for traversing the folders and subfolder if you are here for exploring for the first time. 
