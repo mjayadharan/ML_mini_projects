@@ -20,7 +20,8 @@ We address the following issues:
 - Problem of vanishing/exploding gradients. (Folder 1_*)
 - Reusing already trained networks to efficiently form a new deeper NN. (Folder 2_*)
 - Need for Faster optimizers (something better than the usual SGD). (Folder 3_*)
-- How to avoid __overfitting__ using regularization techniques. (Folder 4_*)
+- How to avoid __overfitting__ using regularization techniques. (Folder 4_*)  
+- A summary practical defaults for most common DNNs. (Folder 5_*)
 
 
 ```python
