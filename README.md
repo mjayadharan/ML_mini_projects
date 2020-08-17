@@ -14,7 +14,7 @@
 Manu Jayadharan, Department of Mathematics at University of Pittsburgh, 2020
 
 email: [manu.jayadharan@gmail.com](mailto:manu.jayadharan@gmail.com), [manu.jayadharan@pitt.edu](mailto:manu.jayadharan@pitt.edu)   
-[reserachgate](https://www.researchgate.net/profile/Manu_Jayadharan)  
+[researchgate](https://www.researchgate.net/profile/Manu_Jayadharan)  
 [linkedin](https://www.linkedin.com/in/manu-jayadharan/)
 
 ## Installing anaconda
